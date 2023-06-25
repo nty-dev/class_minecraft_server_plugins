@@ -1,0 +1,5 @@
+name: InsurancePlugin
+version: 1.0.0
+author: Binner
+description: Insurance Plugin
+main: sg.binner.insuranceplugin.InsuranceMain

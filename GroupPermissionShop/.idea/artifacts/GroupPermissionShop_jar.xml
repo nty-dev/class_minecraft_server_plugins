@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="GroupPermissionShop:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/GroupPermissionShop_jar</output-path>
+    <root id="archive" name="GroupPermissionShop.jar">
+      <element id="module-output" name="GroupPermissionShop" />
+    </root>
+  </artifact>
+</component>

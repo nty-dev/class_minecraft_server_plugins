@@ -1,0 +1,12 @@
+BossShop:
+* Heads shall not always be loaded for the client after opening inventories once
+
+
+
+BS-SingleUse:
+* UUID support
+* Optional Uses-reset after every day/week/month
+
+
+GuiShopManager:
+* Optional item-give-delay

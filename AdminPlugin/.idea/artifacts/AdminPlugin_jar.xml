@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="AdminPlugin:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/AdminPlugin_jar</output-path>
+    <root id="archive" name="AdminPlugin.jar">
+      <element id="module-output" name="AdminPlugin" />
+    </root>
+  </artifact>
+</component>

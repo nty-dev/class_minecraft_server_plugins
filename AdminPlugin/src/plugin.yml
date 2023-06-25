@@ -1,0 +1,12 @@
+name: AdminPlugin
+version: 1.0.0
+author: Binner
+description: Handle Administrator Command
+main: sg.binner.adminplugin.AdminMain
+commands:
+  admin:
+    description: toggle admin power for those with perms
+    usage: /admin
+  sethealth:
+    description: set player's health
+    usage: /sethealth [Health] [Username]

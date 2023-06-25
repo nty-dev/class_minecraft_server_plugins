@@ -1,0 +1,6 @@
+name: GroupPermissionShop
+version: 1.0.0
+author: Binner
+description: Group Permission Addon to BossShop
+main: sg.binner.GroupPermissionShop.GPShop
+depend: [BossShopPro, Vault]
