@@ -1,0 +1,1 @@
+Full Plugin Setup of the Server! (mainly for the documentation to make sense)
